@@ -1,0 +1,16 @@
+/* 
+.  = Classe
+#  = ID 
+*/
+
+h1{
+font-size: 50px;
+}
+li,h4,h1{
+color: rgb(223, 223, 243);
+}
+body{
+    background-image: url("https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/552580/starlink-1-launch-is-spacex.jpg&w=2000&op=resize");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
